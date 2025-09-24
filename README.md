@@ -28,3 +28,4 @@ Principais recursos aplicados:
 
 ## 📁 Acesso ao projeto
 
+[Veja o challenge do amigo secreto em funcionamento](https://desafio-amigo-secreto-vopi-git-main-eduardas-projects-043d9e5c.vercel.app?_vercel_share=YWspKJEX3RoiBr261yithH4w8QukAlOo).
